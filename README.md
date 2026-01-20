@@ -1,22 +1,50 @@
-                     #   Omar Maaty
+<h1 align="center">Omar Maaty</h1>
+<p align="center">
+  <b>Computer Science Student</b> <br>
+  Interested in <b>Artificial Intelligence, Data, and Problem Solving</b>
+</p>
 
-Computer Science student focused on **Artificial Intelligence, Data, and Problem Solving**.  
-Building strong fundamentals through **hands-on projects** and continuous learning.
+<p align="center">
+  Learning by building projects, strengthening fundamentals, and writing clean code.
+</p>
 
----
+<hr>
 
-### 🔗 Connections
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-matty-b367a0331/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omar_maaty7)
+<h3 align="center">🌐 Connect with me</h3>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-matty-b367a0331/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://instagram.com/omar_maaty7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/Omar_Maaty" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40"/>
+  </a>
+</p>
 
-### 🧰 Tech Stack
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<hr>
 
----
+<h3 align="center">🛠 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,linux,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+<hr>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarMaaty&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarMaaty&theme=dark&hide_border=true" />
+</p>
