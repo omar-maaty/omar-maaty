@@ -1,4 +1,4 @@
-#                      Omar Maaty
+                     #   Omar Maaty
 
 Computer Science student focused on **Artificial Intelligence, Data, and Problem Solving**.  
 Building strong fundamentals through **hands-on projects** and continuous learning.
