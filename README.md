@@ -29,7 +29,7 @@
   <!-- 🌐 Connect Section -->
   <h3>🌐 Connect with me</h3>
   <p>
-    <a href="https://www.linkedin.com/in/omar-matty-b367a0331/" target="_blank">
+    <a href="https://www.linkedin.com/in/omar-maaty-b367a0331" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/>
     </a>
     <a href="https://instagram.com/omar_maaty7" target="_blank">
