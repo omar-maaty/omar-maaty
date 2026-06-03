@@ -32,9 +32,6 @@
     <a href="https://www.linkedin.com/in/omar-maaty-b367a0331" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/>
     </a>
-    <a href="https://instagram.com/omar_maaty7" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram"/>
-    </a>
     <a href="https://codeforces.com/profile/Omar_Maaty" target="_blank">
       <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="42" alt="Codeforces"/>
     </a>
